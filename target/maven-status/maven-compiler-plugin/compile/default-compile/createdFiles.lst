@@ -1,0 +1,12 @@
+entities\Banknote.class
+Main.class
+entities\Currency.class
+entities\Customer.class
+entities\dto\NewOrderDTO.class
+entities\dto\ServeDTO.class
+entities\dto\BanknoteDTO.class
+entities\BanknoteMachine.class
+entities\dto\OrderDTO.class
+entities\Order.class
+entities\dto\CustomerDTO.class
+entities\Storage.class
